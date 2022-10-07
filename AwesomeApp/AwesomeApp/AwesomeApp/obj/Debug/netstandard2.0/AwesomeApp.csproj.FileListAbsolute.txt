@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.deps.json
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.dll
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.pdb
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfo.cs
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.dll
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\refint\AwesomeApp.dll
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.pdb
+C:\Users\User\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\ref\AwesomeApp.dll

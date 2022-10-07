@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "os4eWKiIn+6HHchLxXHpYBHzkUdRHkp2jE2Eo3oc32meXAKqxUvxZ6fc+4Jc8MVLIW8pnxZH+dQ2SgYRYC4uow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.diagnostics.tracer\\2.0.8\\system.diagnostics.tracer.2.0.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.diagnostics.tracesource\\4.0.0\\system.diagnostics.tracesource.4.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.net.mqtt\\0.6.16-beta\\system.net.mqtt.0.6.16-beta.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.serialization.primitives\\4.1.1\\system.runtime.serialization.primitives.4.1.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
