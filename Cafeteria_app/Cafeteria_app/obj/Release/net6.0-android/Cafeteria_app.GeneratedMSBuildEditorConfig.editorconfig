@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableSingleFileAnalyzer = false
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = Cafeteria_app
+build_property.ProjectDir = C:\Users\niels\Desktop\Cafeteria_app\Cafeteria_app\
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/Cafeteria_app/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.Cafeteria_app.App.xaml
+build_metadata.AdditionalFiles.TargetPath = Cafeteria_app\App.xaml
+build_metadata.AdditionalFiles.RelativePath = Cafeteria_app\App.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/Cafeteria_app/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.Cafeteria_app.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Cafeteria_app\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Cafeteria_app\AppShell.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/Cafeteria_app/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.Cafeteria_app.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Cafeteria_app\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Cafeteria_app\MainPage.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/Cafeteria_app/obj/Debug/net6.0-windows10.0.19041.0/win10-x64/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.Cafeteria_app.obj.Debug.net6._0_windows10._0._19041._0.win10_x64.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = Cafeteria_app\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = Cafeteria_app\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/Cafeteria_app/obj/Release/net6.0-windows10.0.19041.0/win10-x64/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.Cafeteria_app.obj.Release.net6._0_windows10._0._19041._0.win10_x64.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = Cafeteria_app\obj\Release\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = Cafeteria_app\obj\Release\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/Cafeteria_app/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.Cafeteria_app.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = Cafeteria_app\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = Cafeteria_app\Platforms\Windows\App.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/Cafeteria_app/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.Cafeteria_app.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Cafeteria_app\Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Cafeteria_app\Resources\Styles\Colors.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/Cafeteria_app/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.Cafeteria_app.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Cafeteria_app\Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Cafeteria_app\Resources\Styles\Styles.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/niels/Desktop/Cafeteria_app/Cafeteria_app/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Cafeteria_app.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

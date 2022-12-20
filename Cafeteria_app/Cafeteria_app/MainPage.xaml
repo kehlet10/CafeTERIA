@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cafeteria_app.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Image
+                Source="logo_no_background.png"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                HeightRequest="200"
+                HorizontalOptions="Center" />
+
+            <Button
+                Text="Is Ria open?"
+                Clicked="IsRiaOpenClicked"
+                HorizontalOptions="Center" />
+
+            <Button
+                Text="Test Send: Yes!"
+                Clicked="SetRiaOpenClicked"
+                HorizontalOptions="Center" />
+
+            <Label
+                x:Name="RiaStatusLabel"
+                Text=""
+                SemanticProperties.HeadingLevel="Level3"
+                FontSize="18"
+                HorizontalOptions="Center" />
+
+            <Label
+                x:Name="publisherLabel"
+                Text=""
+                SemanticProperties.HeadingLevel="Level3"
+                FontSize="18"
+                HorizontalOptions="Center" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
